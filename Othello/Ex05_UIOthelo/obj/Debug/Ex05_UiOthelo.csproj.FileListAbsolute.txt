@@ -1,0 +1,47 @@
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\bin\Debug\Ex05_UiOthelo.pdb
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UiOthelo.csprojResolveAssemblyReference.cache
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UiOthelo.csproj.GenerateResource.Cache
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UiOthelo.pdb
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\bin\Debug\Ex05_UiOthelo.exe
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UiOthelo.exe
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.dll
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.pdb
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormBoard.resources
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormGameSetting.resources
+c:\users\ronal\onedrive\מסמכים\visual studio 2015\Projects\B19 Ex05 Roni 312540594 Ron 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Square.resources
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.dll
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.pdb
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csprojResolveAssemblyReference.cache
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormBoard.resources
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormGameSetting.resources
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Square.resources
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csproj.GenerateResource.Cache
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.dll
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.pdb
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormBoard.resources
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormGameSetting.resources
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Square.resources
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csproj.GenerateResource.Cache
+C:\Users\ronal\OneDrive\מסמכים\Visual Studio 2015\Projects\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Properties.Resources.resources
+C:\Users\ronal\Desktop\B19 Ex05 RoniBenAharon 312540594 RonAlon 313534554\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Properties.Resources.resources
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormBoard.resources
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormGameSetting.resources
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Square.resources
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csproj.GenerateResource.Cache
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.dll
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.pdb
+C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Properties.Resources.resources
