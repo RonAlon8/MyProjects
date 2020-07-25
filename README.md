@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-As part of an OOP in C# and the .NET Framework course we were given a task to teach us different elements:
+As part of an OOP in C# and the .NET Framework course (2nd year) we were given a task to teach us different elements:
 - Implementation of work with department and object-oriented programming.
 - Working with arrays / collections classes.
 - Using the string class.
