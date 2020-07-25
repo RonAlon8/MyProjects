@@ -45,3 +45,15 @@ C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.pdb
 C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.dll
 C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.pdb
 C:\Users\ronal\Desktop\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Properties.Resources.resources
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.exe
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\bin\Debug\Ex05_UIOthelo.pdb
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.dll
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\bin\Debug\Ex05_LogicOthelo.pdb
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormBoard.resources
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.FormGameSetting.resources
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Properties.Resources.resources
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.Square.resources
+C:\Users\ronal\Source\Repos\Othello\Othello\Ex05_UiOthelo\obj\Debug\Ex05_UIOthelo.csproj.GenerateResource.Cache
