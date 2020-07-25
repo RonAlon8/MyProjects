@@ -9,7 +9,7 @@
         private eBoardSign[,] m_GameMatrix = null;
         private bool[,] m_ValidMovesMatrix;
         private int m_XCounter;
-        private int m_OCounter; 
+        private int m_OCounter;
 
         public Board(int i_Size)
         {
